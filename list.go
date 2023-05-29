@@ -1,0 +1,2 @@
+direct.list{
+  --proxy.list}
